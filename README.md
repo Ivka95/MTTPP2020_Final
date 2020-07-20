@@ -1,4 +1,4 @@
-# Project TEST
+# MTTPP Project TEST
 
 # Introduction
 This project consists of couple tests. It was our project assingment made for Methods and Techniques of Software Testing course purposes at the Faculty of Electrical Engineering, Computer Science and Information Technology, Osijek. Tests were made on one croatian info gaming site HCL ( https://www.hcl.hr/ ).
