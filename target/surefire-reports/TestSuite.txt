@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 141.04 s <<< FAILURE! - in TestSuite
+firstTest(TestOne)  Time elapsed: 5.276 s  <<< FAILURE!
+java.lang.AssertionError: expected [HCL Gaming Portal - recenzije, vijesti i viÅ¡e za esports, igre i ...] but found [HCL Gaming Portal - recenzije, vijesti i više za esports, igre i ...]
+	at TestOne.firstTest(TestOne.java:38)
+
+secondTest(TestTwo)  Time elapsed: 41.839 s  <<< FAILURE!
+java.lang.AssertionError: expected [159, 953] but found [159, 971]
+	at TestTwo.secondTest(TestTwo.java:50)
+
